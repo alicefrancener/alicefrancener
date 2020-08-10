@@ -7,4 +7,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alicefrancener.dev@gmail.com)](mailto:alicefrancener.dev@gmail.com)
 - ⚡️ Fun fact: I'm a biologist too
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicefrancener&layout=compact)](https://github.com/alicefrancener/github-readme-stats)
