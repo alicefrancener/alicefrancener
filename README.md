@@ -1,6 +1,5 @@
 ### Hi there  👋
 
-- 💻 I'm currently working on a spatial data analysis software in ecology 
 - 🎓 Pursing a degree in Software Engineering
 - 📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alicefrancener/)](https://www.linkedin.com/in/alicefrancener/)
 
