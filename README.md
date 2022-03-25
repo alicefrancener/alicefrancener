@@ -1,8 +1,24 @@
-### Hi there  👋
+### Hi there 👋
 
-- 🎓 Pursing a degree in Software Engineering
-- 📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alicefrancener/)](https://www.linkedin.com/in/alicefrancener/)
+I'm Alice and I'm working remotely from Brazil 🌎
 
----
+##### BIO
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicefrancener&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🏗️ I'm currently working as a software engineer at JungleDevs
+- 🎓 I have a bachelor's degree in Software Engineering
+- 📫 Reach me: [in/alicefrancener](https://www.linkedin.com/in/alicefrancener/)
+
+##### SKILLS
+
+- Currently working with: 
+    - Python, Django, Django REST Framework, Celery
+    - PostgreSQL, Redis
+    - AWS, Docker, Sentry
+- I've already worked with:
+  - JavaScript, Node.js, Express.js, Delphi, R
+
+##### LANGUAGES
+
+- english: _upper intermediate, B2_
+- spanish: _intermediate_
+- portuguese: _mother tongue_
