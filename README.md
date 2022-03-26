@@ -15,7 +15,7 @@ I'm Alice and I'm working remotely from Brazil 🌎
     - PostgreSQL, Redis
     - AWS, Docker, Sentry
 - I've already used:
-      - JavaScript, Node.js, Express.js, Java, Delphi, R
+    - JavaScript, Node.js, Express.js, HTML, CSS, jQuery, Java, Delphi, R
 
 ##### LANGUAGES
 
