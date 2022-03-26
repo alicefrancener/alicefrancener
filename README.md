@@ -4,8 +4,8 @@ I'm Alice and I'm working remotely from Brazil 🌎
 
 ##### BIO
 
-- 🏗️ I'm currently working as a software engineer at JungleDevs
-- 🎓 I have a bachelor's degree in Software Engineering
+- 🏗️ I'm currently working as a software engineer at [JungleDevs](https://jungledevs.com/)
+- 🎓 I have a bachelor's degree in Software Engineering - [UFG](https://www.inf.ufg.br/)
 - 📫 Reach me: [in/alicefrancener](https://www.linkedin.com/in/alicefrancener/)
 
 ##### SKILLS
@@ -14,8 +14,8 @@ I'm Alice and I'm working remotely from Brazil 🌎
     - Python, Django, Django REST Framework, Celery
     - PostgreSQL, Redis
     - AWS, Docker, Sentry
-- I've already worked with:
-  - JavaScript, Node.js, Express.js, Delphi, R
+- I've already used:
+      - JavaScript, Node.js, Express.js, Java, Delphi, R
 
 ##### LANGUAGES
 
