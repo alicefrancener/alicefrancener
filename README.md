@@ -21,4 +21,4 @@ I'm Alice and I'm working remotely from Brazil 🌎
 
 - english: _upper intermediate, B2_
 - spanish: _intermediate_
-- portuguese: _mother tongue_
+- portuguese: _native_
